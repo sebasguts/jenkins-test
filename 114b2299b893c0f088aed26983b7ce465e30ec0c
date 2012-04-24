@@ -1,0 +1,11 @@
+{
+  "built_on": "master",
+  "duration": 9.22,
+  "full_display_name": "JenkinsTest #11",
+  "id": "2012-04-24_13-31-27",
+  "number": 11,
+  "result": "SUCCESS",
+  "status_message": "Ergebnis unbekannt",
+  "time": "2012-04-24 13:31:27 +0200",
+  "url": "job/JenkinsTest/11/"
+}
